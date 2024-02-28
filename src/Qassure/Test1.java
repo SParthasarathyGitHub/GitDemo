@@ -13,6 +13,7 @@ public class Test1 {
 		System.out.println("Add new func2");
 		System.out.println("Add new func3");
 		ystem.out.println("Add new func4");
+		ystem.out.println("Add new func5");
 
 	}
 
