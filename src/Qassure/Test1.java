@@ -5,6 +5,7 @@ public class Test1 {
 		System.out.println("Add payee");
 		System.out.println("Error");
 		System.out.println("Fix");
+		System.out.println("Fix2");
 	}
 
 }
