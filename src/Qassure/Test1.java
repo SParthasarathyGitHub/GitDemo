@@ -13,6 +13,8 @@ public class Test1 {
 		System.out.println("Add new func2");
 		System.out.println("Add new func3");
 		System.out.println("Add new func4");
+		System.out.println("Add new func5");
+
 
 	}
 
