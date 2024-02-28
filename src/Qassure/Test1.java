@@ -9,6 +9,9 @@ public class Test1 {
 		System.out.println("Fix");
 		System.out.println("Fix2");
 		System.out.println("Add new func");
+		System.out.println("Add new func1");
+		System.out.println("Add new func2");
+		System.out.println("Add new func3");
 
 	}
 
