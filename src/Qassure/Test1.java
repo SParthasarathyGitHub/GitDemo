@@ -6,6 +6,7 @@ public class Test1 {
 		System.out.println("Error");
 		System.out.println("Fix");
 		System.out.println("Fix2");
+		System.out.println("Fix3");
 	}
 
 }
