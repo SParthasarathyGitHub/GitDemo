@@ -12,7 +12,7 @@ public class Test1 {
 		System.out.println("Add new func1");
 		System.out.println("Add new func2");
 		System.out.println("Add new func3");
-		ystem.out.println("Add new func4");
+		System.out.println("Add new func4");
 
 	}
 
